@@ -14,17 +14,27 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
 
+![image](https://github.com/user-attachments/assets/ad90e11e-6550-4ec3-ad18-93e412199b18)
+
+
 ### Crear un contenedor con mysql:8 , mapear todos los puertos
-# COMPLETAR
+
+![image](https://github.com/user-attachments/assets/fc3afd3a-d6b4-411b-bc4e-261be91a4ed7)
+
+
 
 ### ¿El contenedor se está ejecutando?
 # COMPLETAR
+![image](https://github.com/user-attachments/assets/d271acc5-b18e-4865-a2eb-c0661e7816aa)
+
 
 ### Identificar el problema
 # COMPLETAR
+![image](https://github.com/user-attachments/assets/cc824f5c-80e4-41ad-8fbb-1f96475902ef)
 
 ### Eliminar el contenedor creado con mysql:8 
 # COMPLETAR
+![image](https://github.com/user-attachments/assets/2cd0b847-bd01-4941-9b08-e7071e767cea)
 
 ### Para crear un contenedor con variables de entorno especificadas
 - Portabilidad: Las aplicaciones se vuelven más portátiles y pueden ser desplegadas en diferentes entornos (desarrollo, pruebas, producción) simplemente cambiando el archivo de variables de entorno.
@@ -43,7 +53,12 @@ Es necesario especificar la ruta absoluta del archivo si este se encuentra en un
 ### Crear un contenedor con mysql:8 , mapear todos los puertos y configurar las variables de entorno mediante un archivo
 # COMPLETAR
 
+![image](https://github.com/user-attachments/assets/7caacc65-f518-427b-90e9-3a8bf3065cfe)
+
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR 
+
+![image](https://github.com/user-attachments/assets/7b30c419-b195-4633-b5a8-b9b868c71a54)
 
 ### ¿Qué bases de datos existen en el contenedor creado?
 # COMPLETAR
+![image](https://github.com/user-attachments/assets/4ec017db-231c-430c-9ade-98c21d2da0ac)
