@@ -2,13 +2,16 @@
 ![Imagen](img/esquema-ejercicio5.PNG)
 
 ### Crear la red
-# COMPLETAR
+
+![image](https://github.com/user-attachments/assets/aa2cbc52-5f29-4fcc-a935-dcf6d64fe2cf)
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
-# COMPLETAR
+
+
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
-# COMPLETAR
+
+
 
 De acuerdo con el trabajo realizado, en la el esquema de ejercicio el puerto a es **(completar con el valor)**
 
